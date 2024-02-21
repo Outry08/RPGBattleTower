@@ -1,0 +1,2 @@
+Ryan, 70, 70, 35, 21, 2, 30, 30, 1, 5, 5, 
+Bomb; Health Potion; Health Potion; 
