@@ -9,7 +9,7 @@ A Text-based game with gameplay like a turn-based RPG. You climb floors of an en
 
 ## Running The Program
 cd into directory containing the RPGBattleTower folder
-javac *.java
+javac RPGBattleTower/*.java
 java RPGBattleTower/RPGBattleTower
 
 ## Visuals
