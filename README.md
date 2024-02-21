@@ -2,24 +2,25 @@
 Ryan McKinnon
 
 ## Name
-War Card Game
+RPG Battle Tower
 
 ## Description
-A text-based recreation of the Card Game War in Java. Includes wars in the events of ties, as well as house rules like single-card gifts, and a turn counter that increases the amount of cards that trade hands as the game goes on.
+A Text-based game with gameplay like a turn-based RPG. You climb floors of an endless battle tower, fighting randomly generated enemies as you go. You choose between attacking, defending, or using items. Every five floors you encounter a boss. Upon defeating the boss, you level up and get a stat boost in all areas, and get to choose a further boost in one area from three randomly generated choices. Makes use of numerous Object-Oriented Programming concepts like inheritance, polymorphism, and method overloading + overriding.
 
 ## Visuals
 Basic Turn Image:
 <img src="BasicTurn.png" alt="Basic Turn">
 
-War Turn Image (Occurs in event of tie):
-<img src="WarTurn.png" alt="War Turn">
+Boss Turn  Image:
+<img src="BossTurn.png" alt="Boss Turn">
 
-Gift Turn Image (Occurs in event of win by one card value):
-<img src="GiftTurn.png" alt="GiftTurn.png">
+Level Up Image:
+<img src="LevelUp.png" alt="Level Up">
 
 ## Roadmap
+Hero classes as well as enemy classes. 
 Adding a GUI to this game instead of it just being text-based.
-Possible online multiplayer component.
+Possible online leaderboard component.
 
 ## Project status
 Stopped for the time being.
